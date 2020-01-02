@@ -1,4 +1,4 @@
-Simulation code for a paper written by Christopher R. Dishop and Richard P. DeShon entitled, *A Word of Caution for Directional Inferences Based on a Partialling Technique with Longitudinal Data.*
+Simulation code for the paper, *A Word of Caution for Directional Inferences Based on a Partialling Technique with Longitudinal Data.*
 
 ## What each folder contains:
 
