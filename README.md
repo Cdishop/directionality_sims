@@ -1,4 +1,4 @@
-Simulation code for the paper, *A Word of Caution for Directional Inferences Based on a Partialling Technique with Longitudinal Data.*
+Simulation code for the paper, *Inferences of Causal Direction Cannot Be Established From a Partialling Technique with Longitudinal Data.*
 
 ## What each folder contains:
 
